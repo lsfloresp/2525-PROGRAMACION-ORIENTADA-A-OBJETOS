@@ -38,7 +38,6 @@ Este repositorio incluye:
 4. Subir el proyecto a tu repositorio personal
    ```bash
    git push -u origin main
-   
-##Prueba comit
+
 
 
