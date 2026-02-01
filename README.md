@@ -39,5 +39,13 @@ Este repositorio incluye:
    ```bash
    git push -u origin main
 
+## Adaptaciones realizadas
+
+- Se personalizó el archivo `Dashboard.py` para incluir un menú de gestión de tareas personales.
+- Se aplicaron principios de Programación Orientada a Objetos mediante la clase `Tarea`.
+- El dashboard permite organizar actividades relacionadas con la asignatura.
+
+**Estudiante:** Santiago Flores  
+**Fecha:** 01 Febrero 2026
 
 
