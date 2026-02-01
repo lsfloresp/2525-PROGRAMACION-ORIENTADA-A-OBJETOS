@@ -231,5 +231,5 @@ def mostrar_scripts(ruta_sub_carpeta):
 # EJECUCIÓN DEL DASHBOARD
 
 if __name__ == "__main__":
-    print("Bienvenido al Dashboard 9de POO - Versión personalizada de Santiago Flopi")
+    print("Bienvenido al Dashboard de POO - Versión personalizada de Santiago Flores")
     mostrar_menu()
